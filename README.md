@@ -3,6 +3,7 @@ I'm Dmitry
 - 🔭 I’m currently working on Audio Processing
 - 🌱 I’m currently learning Automatic Singing Transcription
 
+<!--
 [![Gmail Badge](https://img.shields.io/badge/d.suzdaltsev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:d.suzdaltsev@gmail.com)](mailto:d.suzdaltsev@gmail.com) 
 
 
