@@ -1,5 +1,9 @@
 ### Hi there 👋
 I'm Dmitry
+- 🔭 I’m currently working on Audio Processing
+- 🌱 I’m currently learning Automatic Singing Transcription
+
+
 <!--
 **DmitrySuzdaltsev/DmitrySuzdaltsev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
