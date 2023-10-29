@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm Dmitry
-- 🔭 I’m currently working on Audio Processing
+- 🔭 I’m currently working on `Audio Processing`
 - 🌱 I’m currently learning Automatic Singing Transcription
 
 <!--
